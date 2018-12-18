@@ -1,2 +1,4 @@
-# HomeworkWeek2
-Data Science Week 2 Homework Sunbmission
+# VBA with Stock Market Data
+
+This project utilized VBA scripting to analyze real stock market data.
+
